@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/SigurdurJ/stringCalcWeb.png)](https://travis-ci.org/SigurdurJ/stringCalcWeb)
 
+Hér eru nýjar upplýsingar.
+
 Software Engineering (C-T-303-HUGB), Week 10 Fall Semester 2017
 
 # Continuous Integration with Travis & Heroku
