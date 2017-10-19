@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/SigurdurJ/stringCalcWeb.svg?branch=master)](https://travis-ci.org/SigurdurJ/stringCalcWeb)
 
+"Just a small town guuurl.. living in a lonely woooerld"
+
 Software Engineering (C-T-303-HUGB), Week 10 Fall Semester 2017
 
 # Continuous Integration with Travis & Heroku
