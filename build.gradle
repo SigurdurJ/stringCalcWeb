@@ -1,6 +1,9 @@
 apply plugin: 'java-library'
 apply plugin: 'application'
 
+task stage(dependsOn: ['build', 'clean'])
+build.mustRunAfter clean
+
 mainClassName = "is.ru.hugb.calc.CalcWeb"
 
 repositories {
